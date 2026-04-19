@@ -1,6 +1,8 @@
+# WordForge - Wordlist Optimization Tool
+# Author: 0xsaurav-exe
 #!/usr/bin/env bash
 
-figlet -c "WL-Optimizer" | lolcat
+figlet -c "WordForge" | lolcat
 
 # ===== INPUT =====
 
