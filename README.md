@@ -1,70 +1,52 @@
-⚡ Demo
-
-./wordforge.sh
-
-Enter path to wordlist file: rockyou.txt
-
-Choose option: 1
-
-Enter length: 5
-
-
-Output saved to:
-
-output/optimized_rockyou.txt
-
-
-
-
-
-
-
-
 🔥 WordForge
 
 WordForge is a lightweight CLI tool built in Bash to filter, refine, and optimize password wordlists for cybersecurity and VAPT workflows.
 
+⚡ Demo
+./wordforge.sh
+Enter path to wordlist file: rockyou.txt
+Choose option: 1
+Enter length: 5
 
+Output:
+
+output/optimized_rockyou.txt
 🚀 Features
-
 🔍 Filter by length
 🧠 Pattern matching (e.g. admin*)
 🔢 Character filtering
 ♻️ Remove duplicates
 ⚡ Fast and portable (works on any Linux)
-
-
-
 📦 Installation
-
 git clone https://github.com/0xsaurav-exe/WordForge.git
 cd WordForge
 chmod +x wordforge.sh
-
-
 ⚙️ Usage
 ./wordforge.sh
-Follow the prompts.
 
+Follow the interactive prompts.
 
 📁 Output
 
-Results are saved in:
+All results are saved in:
+
 output/optimized_<filename>.txt
+🎯 Why WordForge?
 
+Large wordlists like rockyou.txt contain millions of entries.
+WordForge helps you:
 
-🎯 Use Cases
-
+reduce unnecessary data
+target specific password patterns
+prepare optimized lists for brute-force and auditing
+🧪 Use Cases
 Password auditing
 Wordlist optimization
 Brute-force preparation
 Security research
-
-
 ⚠️ Disclaimer
 
 This tool is for educational and ethical use only.
-
 
 👨‍💻 Author
 
