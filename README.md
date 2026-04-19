@@ -1,4 +1,5 @@
 # 🔥 WordForge
+![WordForge Demo](demo.png)
 
 WordForge is a lightweight CLI tool built in Bash to **filter, refine, and optimize password wordlists** for cybersecurity and VAPT workflows.
 
