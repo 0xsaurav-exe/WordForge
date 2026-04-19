@@ -1,14 +1,17 @@
 ⚡ Demo
 
 ./wordforge.sh
-
 Enter path to wordlist file: rockyou.txt
 Choose option: 1
 Enter length: 5
 
-Output saved to:
 
+Output saved to:
 output/optimized_rockyou.txt
+
+
+
+
 
 
 🔥 WordForge
