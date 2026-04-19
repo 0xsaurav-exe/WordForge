@@ -1,5 +1,7 @@
 ⚡ Demo
+
 ./wordforge.sh
+
 Enter path to wordlist file: rockyou.txt
 Choose option: 1
 Enter length: 5
